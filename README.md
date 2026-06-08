@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rohan Janardan Pagare👋
 
-<!--
-**rohanjtech/rohanjtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* 📊 Data Analyst & Data Science Enthusiast
+* 🤖 Machine Learning & AI Developer
+* 🐍 Python Programmer
+* 🌐 Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Scikit-Learn
+* Machine Learning
+* Data Analysis
+* HTML
+* CSS
+* JavaScript
+
+## Projects
+
+ Parental Genetics ML Project
+ Laptop Price Prediction ML Project
+ Heart Disease Prediction ML Project
+ Student Marks Prediction ML Project
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* SQL Optimization
+* Model Deployment
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/rohan-pagare-5a0444249/
