@@ -195,7 +195,7 @@ https://github.com/rohanjtech/heart-disease-prediction
 
 ### LinkedIn
 
-www.linkedin.com/in/rohan-pagare-5a0444249
+https://www.linkedin.com/in/rohanpagare-analytics
 
 ### Email
 
