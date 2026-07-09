@@ -110,12 +110,13 @@ I'm a Machine Learning Engineer focused on building end-to-end ML systems — fr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&hide_border=true&theme=default" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjtech&hide_border=true&theme=default" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&theme=github_dark&hide_border=true" width="42%" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjtech&theme=minimal&hide_border=true" width="95%" alt="Contribution Graph" />
+<img src="https://streak-stats.demolab.com?user=rohanjtech&theme=github_dark&hide_border=true" width="49%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjtech&theme=github-dark&hide_border=true" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -157,8 +158,6 @@ I'm a Machine Learning Engineer focused on building end-to-end ML systems — fr
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohanjtech&color=blueviolet&style=flat-square&label=Profile+Views)
-
-<sub>Thanks for visiting — always open to connecting on interesting ML/DL problems.</sub>
+<img src="https://komarev.com/ghpvc/?username=rohanjtech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
