@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header" />
 
 # Rohan Janardan Pagare
 ### Machine Learning & Deep Learning Practitioner · AI Developer
@@ -110,7 +110,7 @@ Regression model estimating laptop prices from hardware specifications and marke
 <img src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&hide_border=true&theme=default" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjtech&hide_border=true&theme=default" height="165" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rohanjtech&hide_border=true&theme=default" height="165" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjtech&theme=minimal&hide_border=true" width="100%" alt="Contribution Graph" />
 
@@ -141,6 +141,6 @@ Regression model estimating laptop prices from hardware specifications and marke
 
 <sub>![Profile Views](https://komarev.com/ghpvc/?username=rohanjtech&color=203A43&style=flat-square&label=Profile+Views)</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 
 </div>
