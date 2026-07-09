@@ -1,210 +1,156 @@
-# Hi, I'm Rohan Janardan Pagare 👋
+<h1 align="center">Hi 👋, I'm Rohan Janardan Pagare</h1>
 
-### 🚀 Machine Learning Enthusiast | Data Analyst | Python Developer
+<h3 align="center">
+Machine Learning Engineer | Deep Learning Enthusiast | AI Developer
+</h3>
 
-I build data-driven solutions using Python, Machine Learning, and Data Analytics.
-
-Currently focused on strengthening my skills in Statistics, SQL, Machine Learning, and developing real-world AI applications.
+<p align="center">
+I build end-to-end Machine Learning and Deep Learning solutions using Python, Scikit-Learn, and PyTorch while continuously improving my knowledge in AI and Data Science.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
+- 💻 Machine Learning & Deep Learning Enthusiast
 - 🐍 Python Developer
-- 📊 Data Analytics Enthusiast
-- 🤖 Machine Learning Practitioner
-- 📈 Passionate about solving real-world problems using data
-- 🔍 Interested in AI, Predictive Analytics, and Data Science
-- 🌱 Continuously learning and building practical projects
+- 📊 Passionate about Data Analytics & Predictive Modeling
+- 🤖 Currently building Deep Learning projects using PyTorch
+- 📈 Interested in Artificial Intelligence, Computer Vision and Generative AI
+- 🌱 Always learning through real-world projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- HTML
-- CSS
-- JavaScript
+### Programming
 
-### Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ### Machine Learning
-- Scikit-Learn
-- Regression Models
-- Classification Models
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+### Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Type | Technologies |
+|----------|------|--------------|
+| 🩺 Child Health Risk Prediction | Deep Learning (ANN) | PyTorch, Scikit-Learn |
+| ❤️ Heart Disease Prediction | Machine Learning | Random Forest, Scikit-Learn |
+| 🧬 Parental Genetics Prediction | Regression | Scikit-Learn |
+| 💻 Laptop Price Prediction | Regression | Scikit-Learn |
+
+### Latest Deep Learning Project
+
+## 🩺 Child Health Risk Prediction using ANN
+
+A complete end-to-end Deep Learning classification project built using **PyTorch**.
+
+### Highlights
+
+- Multi-Class Classification
+- Exploratory Data Analysis
 - Feature Engineering
+- Data Preprocessing
+- ANN Model Development
+- Early Stopping
 - Model Evaluation
+- Confusion Matrix
+- Classification Report
 
-### Databases
-- MySQL
+🔗 Repository
 
-### Tools & Platforms
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+https://github.com/rohanjtech/child-health-risk-prediction-ann
 
 ---
 
-# 🚀 Featured Projects
+# 📈 GitHub Statistics
 
-## 💻 Laptop Price Prediction
+<p align="center">
 
-Machine Learning regression project for predicting laptop prices using feature engineering, model selection, and performance evaluation.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=github_dark"/>
 
-🔗 Repository:
-https://github.com/rohanjtech/laptop-price-prediction
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&theme=github_dark"/>
 
-**Tech Used**
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Jupyter Notebook
+</p>
 
 ---
 
-## 🧬 Parental Genetics ML
+# 🚀 Currently Learning
 
-Predicting child height using parental genetics through data analysis, feature engineering, and regression techniques.
-
-🔗 Repository:
-https://github.com/rohanjtech/parental-genetics-ml
-
-**Tech Used**
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-
----
-
-## ❤️ Heart Disease Prediction
-
-Classification model for predicting heart disease risk using patient medical data and machine learning algorithms.
-
-🔗 Repository:
-https://github.com/rohanjtech/heart-disease-prediction
-
-**Tech Used**
-- Python
-- Pandas
-- Scikit-Learn
-- Data Analysis
-
----
-
-# 📚 Learning Roadmap
-
-### Completed
-
-✅ Python Fundamentals
-
-✅ Pandas
-
-✅ NumPy
-
-✅ Data Cleaning
-
-✅ Exploratory Data Analysis
-
-✅ Feature Engineering
-
-✅ Machine Learning Basics
-
-✅ Regression Models
-
-✅ Classification Models
-
----
-
-### Currently Learning
-
-🟡 Statistics
-
-🟡 SQL
-
-🟡 Advanced Machine Learning
-
-🟡 Model Optimization
-
-🟡 Model Deployment
-
----
-
-### Future Goals
-
-⬜ Deep Learning
-
-⬜ Neural Networks
-
-⬜ Natural Language Processing (NLP)
-
-⬜ MLOps
-
-⬜ Cloud Deployment
-
-⬜ Generative AI
+- Deep Learning with PyTorch
+- Convolutional Neural Networks (CNN)
+- Computer Vision
+- Model Optimization
+- Transfer Learning
 
 ---
 
 # 🎯 2026 Goals
 
-- Build 10+ End-to-End Machine Learning Projects
-- Master SQL for Data Analytics
-- Strengthen Statistics & Probability
-- Learn Deep Learning Fundamentals
-- Deploy Production-Ready ML Applications
-- Contribute to Open Source Projects
-- Secure a Data Analyst / Machine Learning Role
+- Build 15+ Machine Learning & Deep Learning Projects
+- Master Deep Learning
+- Learn Computer Vision
+- Learn Natural Language Processing (NLP)
+- Learn MLOps
+- Deploy Production-Ready AI Applications
+- Contribute to Open Source
+- Secure an AI / Machine Learning Engineer Role
 
 ---
 
-# 📈 Current Project Pipeline
+# 📫 Connect With Me
 
-🚀 Student Marks Prediction
-
-🚀 Diabetes Prediction
-
-🚀 Customer Churn Prediction
-
-🚀 Sales Analytics Dashboard
-
-🚀 End-to-End ML Deployment Project
-
----
-
-# 💡 Areas of Interest
-
-- Machine Learning
-- Data Analytics
-- Artificial Intelligence
-- Predictive Modeling
-- Business Intelligence
-- Data Visualization
-- Automation
-
----
-
-# 🤝 Connect With Me
-
-### LinkedIn
-
-https://www.linkedin.com/in/rohanpagare-analytics
-
-### Email
+📧 **Email**
 
 rohanpagare2407@gmail.com
 
-### Portfolio:
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/rohanpagare-analytics/
+
+🌐 **Portfolio**
 
 https://rohanjtech.github.io/
 
+🐙 **GitHub**
+
+https://github.com/rohanjtech
+
 ---
 
-⭐ If you find my projects useful, feel free to explore the repositories and connect with me.
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
