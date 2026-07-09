@@ -1,156 +1,164 @@
-<h1 align="center">Hi 👋, I'm Rohan Janardan Pagare</h1>
+<div align="center">
 
-<h3 align="center">
-Machine Learning Engineer | Deep Learning Enthusiast | AI Developer
-</h3>
+# Rohan Janardan Pagare
 
-<p align="center">
-I build end-to-end Machine Learning and Deep Learning solutions using Python, Scikit-Learn, and PyTorch while continuously improving my knowledge in AI and Data Science.
-</p>
+### Machine Learning & Deep Learning Practitioner | AI Developer
 
----
+Building intelligent systems that turn data into decisions — from classical ML pipelines to neural networks in PyTorch.
 
-## 👨‍💻 About Me
+<br>
 
-- 💻 Machine Learning & Deep Learning Enthusiast
-- 🐍 Python Developer
-- 📊 Passionate about Data Analytics & Predictive Modeling
-- 🤖 Currently building Deep Learning projects using PyTorch
-- 📈 Interested in Artificial Intelligence, Computer Vision and Generative AI
-- 🌱 Always learning through real-world projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-rohanjtech.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rohanjtech.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpagare-analytics/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpagare2407@gmail.com)
 
----
+</div>
 
-# 🛠️ Tech Stack
+<br>
 
-### Programming
+## About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I'm a Machine Learning Engineer focused on building end-to-end ML systems — from data preprocessing and feature engineering to model training, evaluation, and deployment-ready pipelines. My work spans classical machine learning with Scikit-Learn and deep learning with PyTorch, applied to real-world problems in healthcare analytics and predictive modeling.
 
-### Data Analysis
+- 🔭 Currently building projects around **Artificial Neural Networks** and predictive health analytics
+- 🌱 Deepening expertise in **CNNs, Computer Vision, and Model Optimization**
+- 🤝 Open to collaborating on **ML/DL projects, research, and open-source contributions**
+- 📫 Reach me at **rohanpagare2407@gmail.com**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<br>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+## Tech Stack
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+<div align="center">
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+**Languages**
 
-### Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+**Machine Learning**
 
-### Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-4C4C4C?style=flat-square)
+![Classification](https://img.shields.io/badge/Classification-4C4C4C?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4C4C4C?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-4C4C4C?style=flat-square)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+**Deep Learning**
 
-### Database
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ANN](https://img.shields.io/badge/Artificial%20Neural%20Networks-4C4C4C?style=flat-square)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+**Data Analysis**
 
-### Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+**Database**
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+**Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
+</div>
 
-# ⭐ Featured Projects
+<br>
 
-| Project | Type | Technologies |
-|----------|------|--------------|
-| 🩺 Child Health Risk Prediction | Deep Learning (ANN) | PyTorch, Scikit-Learn |
-| ❤️ Heart Disease Prediction | Machine Learning | Random Forest, Scikit-Learn |
-| 🧬 Parental Genetics Prediction | Regression | Scikit-Learn |
-| 💻 Laptop Price Prediction | Regression | Scikit-Learn |
+## Featured Projects
 
-### Latest Deep Learning Project
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 Child Health Risk Prediction (ANN)</h3>
+      <p>Deep learning model built with PyTorch to predict child health risk factors using Artificial Neural Networks.</p>
+      <b>Stack:</b> PyTorch, ANN, Python<br>
+      <a href="https://github.com/rohanjtech/child-health-risk-prediction-ann">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❤️ Heart Disease Prediction</h3>
+      <p>Classification model to predict heart disease risk using clinical data and Scikit-Learn pipelines.</p>
+      <b>Stack:</b> Scikit-Learn, Python, Pandas<br>
+      <a href="https://github.com/rohanjtech/heart-disease-prediction">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Parental Genetics ML</h3>
+      <p>Machine learning approach to modeling genetic inheritance patterns and predictive analysis.</p>
+      <b>Stack:</b> Scikit-Learn, Python, Feature Engineering<br>
+      <a href="https://github.com/rohanjtech/parental-genetics-ml">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Laptop Price Prediction</h3>
+      <p>Regression-based model estimating laptop prices from hardware specifications and market data.</p>
+      <b>Stack:</b> Scikit-Learn, Regression, Pandas<br>
+      <a href="https://github.com/rohanjtech/laptop-price-prediction">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
-## 🩺 Child Health Risk Prediction using ANN
+<br>
 
-A complete end-to-end Deep Learning classification project built using **PyTorch**.
+## GitHub Analytics
 
-### Highlights
+<div align="center">
 
-- Multi-Class Classification
-- Exploratory Data Analysis
-- Feature Engineering
-- Data Preprocessing
-- ANN Model Development
-- Early Stopping
-- Model Evaluation
-- Confusion Matrix
-- Classification Report
+<img src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&hide_border=true&theme=default" width="42%" alt="Top Languages" />
 
-🔗 Repository
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanjtech&hide_border=true&theme=default" width="49%" alt="GitHub Streak" />
 
-https://github.com/rohanjtech/child-health-risk-prediction-ann
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanjtech&theme=minimal&hide_border=true" width="95%" alt="Contribution Graph" />
 
----
+</div>
 
-# 📈 GitHub Statistics
+<br>
 
-<p align="center">
+## 📊 Repository Highlights
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohanjtech&show_icons=true&theme=github_dark"/>
+- 📦 4 End-to-End Machine Learning Projects
+- 🤖 1 Deep Learning Project using PyTorch
+- 📊 Regression & Classification Models
+- 🧠 ANN Implementation from Scratch
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanjtech&layout=compact&theme=github_dark"/>
 
-</p>
+## Current Focus
 
----
+<div align="center">
 
-# 🚀 Currently Learning
+![CNN](https://img.shields.io/badge/Learning-CNN-4C4C4C?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Learning-Computer%20Vision-4C4C4C?style=flat-square)
+![Model Optimization](https://img.shields.io/badge/Learning-Model%20Optimization-4C4C4C?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Learning-Deep%20Learning-4C4C4C?style=flat-square)
 
-- Deep Learning with PyTorch
-- Convolutional Neural Networks (CNN)
-- Computer Vision
-- Model Optimization
-- Transfer Learning
+</div>
 
----
+<br>
 
-# 🎯 2026 Goals
+## Connect With Me
 
-- Build 15+ Machine Learning & Deep Learning Projects
-- Master Deep Learning
-- Learn Computer Vision
-- Learn Natural Language Processing (NLP)
-- Learn MLOps
-- Deploy Production-Ready AI Applications
-- Contribute to Open Source
-- Secure an AI / Machine Learning Engineer Role
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rohanjtech.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpagare-analytics/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpagare2407@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohanjtech)
 
-# 📫 Connect With Me
+</div>
 
-📧 **Email**
+<br>
 
-rohanpagare2407@gmail.com
+<div align="center">
 
-💼 **LinkedIn**
+![Profile Views](https://komarev.com/ghpvc/?username=rohanjtech&color=blueviolet&style=flat-square&label=Profile+Views)
 
-https://www.linkedin.com/in/rohanpagare-analytics/
+<sub>Thanks for visiting — always open to connecting on interesting ML/DL problems.</sub>
 
-🌐 **Portfolio**
-
-https://rohanjtech.github.io/
-
-🐙 **GitHub**
-
-https://github.com/rohanjtech
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</div>
